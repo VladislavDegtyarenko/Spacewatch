@@ -4,7 +4,7 @@
 
 A simple countdown timer app I made for Javascript practicing.
 
-[Click here](https://vladislavdegtyarenko.github.io/Spacewatch/) to launch the app.
+[Click here](https://vladislavdegtyarenko.github.io/Spacewatch-TimerOnJS/) to launch the app.
 
 
 Thanks for paying attention to this repository. You can find more interesting projects in my [Github profile](https://github.com/VladislavDegtyarenko).
